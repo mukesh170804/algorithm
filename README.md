@@ -1,0 +1,2 @@
+# algorithm
+K mans algorithm
